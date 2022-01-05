@@ -1,0 +1,32 @@
+{
+  "Hours": [
+    {
+      "id": 1,
+      "date": "2022-01-05",
+      "arrivaltime": "08:45",
+      "exittime": "18:45",
+      "lunchtime": "01:45"
+    },
+    {
+      "id": 3,
+      "date": "2022-01-06",
+      "arrivaltime": "10:00",
+      "exittime": "18:30",
+      "lunchtime": "01:45"
+    },
+    {
+      "id": 4,
+      "date": "2022-01-07",
+      "arrivaltime": "09:00",
+      "exittime": "19:45",
+      "lunchtime": "00:15"
+    },
+    {
+      "id": 5,
+      "date": "2022-01-08",
+      "arrivaltime": "09:00",
+      "exittime": "21:00",
+      "lunchtime": "03:30"
+    }
+  ]
+}
